@@ -14,9 +14,7 @@ EAT THAT BBURGER APP: https://ydeek-burger-sql.herokuapp.com/
 
 
 ## Installation 
-Step1: npm init 
-Step2: npm install express
-Step3: npm install mysql
+npm init, npm install express, and npm install mysql
 
 
 ## Directory Structure 
