@@ -5,6 +5,8 @@ This web application allows users to search for their favorite burger. Users can
 
 # Application Heroku Link
 
+EAT THAT BBURGER APP: https://ydeek-burger-sql.herokuapp.com/
+
 <img src="public/img/Screenshot_1.png" alt="">
 <img src="public/img/Screenshot_2.png" alt="">
 <img src="public/img/Screenshot_3.png" alt="">
@@ -20,7 +22,7 @@ Step3: npm install mysql
 ## Directory Structure 
 
 
-<img src="img/Screenshot.png" alt="">
+<img src="public/img/Screenshot.png" alt="">
 
 
 
