@@ -8,7 +8,7 @@ This web application allows users to search for their favorite burger. Users can
 
 
 
-<img src="/img/Screenshot1.png" alt="">
+<img src="/img/Screenshot_1.png" alt="">
 
 
 
