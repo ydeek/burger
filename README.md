@@ -5,19 +5,10 @@ This web application allows users to search for their favorite burger. Users can
 
 # Application Heroku Link
 
-
-
-
-<img src="img/Screenshot_1.png" alt="">
-<img src="img/Screenshot_2.png" alt="">
-<img src="img/Screenshot_3.png" alt="">
-<img src="img/Screenshot_4.png" alt="">
-
-
-
-
-
-
+<img src="public/img/Screenshot_1.png" alt="">
+<img src="public/img/Screenshot_2.png" alt="">
+<img src="public/img/Screenshot_3.png" alt="">
+<img src="public/img/Screenshot_4.png" alt="">
 
 
 ## Installation 
