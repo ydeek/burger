@@ -1,4 +1,4 @@
-##Eat That Burger 
+## Eat That Burger 
 
 This web application allows users to search for their favorite burger. Users can search any type of burger they desire, and then they get to keep their search or go for their choice of burger. 
 
@@ -8,7 +8,7 @@ This web application allows users to search for their favorite burger. Users can
 
 
 
-<img src="/img/Screenshot_1.png" alt="">
+<img src="img/Screenshot_1.png" alt="">
 
 
 
